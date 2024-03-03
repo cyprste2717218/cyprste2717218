@@ -52,6 +52,7 @@ I'm a Software Developer and Computer Science Student👨‍🎓!
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=cyprste2717218&theme=transparent)](https://git.io/streak-stats)
 ![Cyprste2717218's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprste2717218&show_icons=true&theme=transparent)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprste2717218)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
