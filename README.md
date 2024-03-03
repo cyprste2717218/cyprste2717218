@@ -1,20 +1,23 @@
 
-<div >
-  <img src="https://github.com/cyprste2717218/cyprste2717218/blob/main/profile_picture.jpg" width="300" height="338" alt="profile-picture" >
+<div align='center'>
+  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47x43j2eo0u8darhi1cecigyiqpvt71dm47vgz8zsw&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="profile-picture" width="150" height="100" />
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/stephen-ingham-/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-
+  <h1>
+    Hi there, I'm Stephen  👋
+  </h1>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlsNjY1NGJnOG1tMWNuOGd0bm1qdHdsM2Y1cjl2eWl5OXp6NXBobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="550" height="300" />
 
 </div>
 
 ---
 
-  # Hi there, I'm Stephen  👋
-<br></br>
+
+  
 I'm a Software Developer and Computer Science Student👨‍🎓!
 
 - 🔭 I’m working as a Software Developer Intern doing full stack mobile app development.
