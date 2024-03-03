@@ -50,6 +50,14 @@ I'm a Software Developer and Computer Science Student👨‍🎓!
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyprste2717218&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=cyprste2717218&theme=transparent)](https://git.io/streak-stats)
+![Cyprste2717218's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprste2717218&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprste2717218)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+
+### Check out my work!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=Unit-Converter-App)](https://github.com/cyprste2717218/Unit-Converter-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=Caesars-Cipher-Decoder-App)](https://github.com/cyprste2717218/Caesars-Cipher-Decoder-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=ENG1-Assesment2-PiazzaPanic-BrokenDesigners)](https://github.com/cyprste2717218/ENG1-Assesment2-PiazzaPanic-BrokenDesigners)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=Rock-Paper-Scissors-Game-Python-Script)](https://github.com/cyprste2717218/Rock-Paper-Scissors-Game-Python-Script)
