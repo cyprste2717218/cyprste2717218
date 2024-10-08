@@ -16,7 +16,7 @@
   
 I'm a Software Developer and Computer Science Student👨‍🎓!
 
-- 🔭 I’m working as a Software Developer Intern doing full stack mobile app development.
+- 🔭 I’m a final year Computer Science Student with a range of web/mobile app experience, currently seeking grad roles.
 - 🌱 I’m currently exploring further into AWS.
 - ⚡ In my free time, I build lego and listen to tech podcasts.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham-/)
@@ -50,7 +50,6 @@ I'm a Software Developer and Computer Science Student👨‍🎓!
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=cyprste2717218&theme=transparent)](https://git.io/streak-stats)
 ![Cyprste2717218's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprste2717218&show_icons=true&theme=transparent)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprste2717218&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,3 +61,8 @@ I'm a Software Developer and Computer Science Student👨‍🎓!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=Caesars-Cipher-Decoder-App)](https://github.com/cyprste2717218/Caesars-Cipher-Decoder-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=ENG1-Assesment2-PiazzaPanic-BrokenDesigners)](https://github.com/cyprste2717218/ENG1-Assesment2-PiazzaPanic-BrokenDesigners)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=To-Do-List-App)](https://github.com/cyprste2717218/To-Do-List-App)
+
+---
+
+#### Hacktoberfest Badges
+[![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
