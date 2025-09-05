@@ -14,9 +14,9 @@
 
 #  Hi there, I'm Stephen  👋
   
-I'm a Software Developer and Computer Science Student👨‍🎓!
+I'm a Software Engineer!
 
-- 🔭 I’m a final year Computer Science Student with a range of web/mobile app experience, currently seeking grad roles.
+- 🔭 I have a range of web/mobile app experience and am currently seeking developer roles.
 - 🌱 I’m currently exploring further into AWS.
 - ⚡ In my free time, I build lego and listen to tech podcasts.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham-/)
