@@ -49,20 +49,5 @@ I'm a Software Engineer!
 
 ---
 
-### :fire: My Stats :
-![Cyprste2717218's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyprste2717218&show_icons=true&theme=transparent)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyprste2717218&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
---- 
-
-### Check out my work!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=github-prs-chrome-extension)](https://github.com/cyprste2717218/github-prs-chrome-extension)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=hoare-logic-proof-checker)](https://github.com/cyprste2717218/hoare-logic-proof-checker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=Unit-Converter-App)](https://github.com/cyprste2717218/Unit-Converter-App)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cyprste2717218&repo=To-Do-List-App)](https://github.com/cyprste2717218/To-Do-List-App)
-
----
-
 #### Hacktoberfest Badges
 [![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
