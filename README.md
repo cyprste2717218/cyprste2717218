@@ -51,3 +51,6 @@ I'm a Software Engineer!
 
 #### Hacktoberfest Badges
 [![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
