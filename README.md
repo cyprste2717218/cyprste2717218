@@ -49,10 +49,26 @@ I'm a Software Engineer!
 
 ---
 
-#### Hacktoberfest Badges
-[![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
+### :star2: Featured Projects
+
+| Project | Description |
+| --- | --- |
+| [hoare-logic-proof-checker](https://github.com/cyprste2717218/hoare-logic-proof-checker) | Web-based proof kernel for determining the validity of a Hoare Triple with a given proof body |
+| [ROS2-Autonomous-Robotics-Implementation](https://github.com/cyprste2717218/ROS2-Autonomous-Robotics-Implementation) | Python control code for an autonomous robot, implemented within the ROS2 middleware (University of York) |
+| [Flower-Image-Classifier-Project](https://github.com/cyprste2717218/Flower-Image-Classifier-Project) | TensorFlow/Keras ResNet-style CNN classifying flower images across 102 categories (Oxford Flowers 102) |
+| [github-prs-chrome-extension](https://github.com/cyprste2717218/github-prs-chrome-extension) | Chrome extension to see at a glance how many pull requests are open across your tracked repositories |
+| [p2p-video-chat-web-app](https://github.com/cyprste2717218/p2p-video-chat-web-app) | P2P video chat web app built with Express.js, WebSockets & WebRTC |
+
+---
+
+#### Credly Badges
 
 <!--START_SECTION:badges-->
-[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/80x80/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
-[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
+[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/150x150/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
+[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/150x150/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
 <!--END_SECTION:badges-->
+
+---
+
+#### Hacktoberfest Badges
+[![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)

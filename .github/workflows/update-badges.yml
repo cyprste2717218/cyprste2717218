@@ -13,8 +13,24 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: stephen-ingham.862cb701
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
+
+      - name: Resize Credly badge images
+        run: |
+          git pull
+          # badge-readme hardcodes images.credly.com badge size to 80x80; bump to 150x150 for readability
+          sed -i 's|images.credly.com/size/80x80/|images.credly.com/size/150x150/|g' README.md
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Resize Credly badges to 150x150"
+            git push
+          fi
