@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: stephenmichael833@gmail.com
+          CREDLY_USER: stephen-ingham.862cb701
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
