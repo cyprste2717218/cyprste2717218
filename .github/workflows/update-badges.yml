@@ -25,12 +25,12 @@ jobs:
       - name: Resize Credly badge images
         run: |
           git pull
-          # badge-readme hardcodes images.credly.com badge size to 80x80; bump to 150x150 for readability
-          sed -i 's|images.credly.com/size/80x80/|images.credly.com/size/150x150/|g' README.md
+          # badge-readme hardcodes images.credly.com badge size to 80x80; bump to 250x250 for readability
+          sed -i 's|images.credly.com/size/80x80/|images.credly.com/size/250x250/|g' README.md
           if ! git diff --quiet README.md; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "Resize Credly badges to 150x150"
+            git commit -m "Resize Credly badges to 250x250"
             git push
           fi
