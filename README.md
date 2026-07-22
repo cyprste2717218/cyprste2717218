@@ -64,8 +64,8 @@ I'm a Software Engineer!
 ### :book: Badges
 
 <!--START_SECTION:badges-->
-[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/80x80/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
-[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/80x80/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
+[![Engineer AI Agents with Agent Development Kit (ADK)](https://images.credly.com/size/150x150/images/000655a5-3837-4c38-b906-2eb9c059ab36/blob)](https://www.credly.com/badges/103868a7-df03-41dc-b7f1-97de38ba18a5)
+[![AWS Educate Introduction to Generative AI - Training Badge](https://images.credly.com/size/150x150/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob)](https://www.credly.com/badges/5c7190cb-3429-4005-aa1e-7f329835b471)
 <!--END_SECTION:badges-->
 
 [![An image of @cyprste2717218's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cyprste2717218)](https://holopin.io/@cyprste2717218)
