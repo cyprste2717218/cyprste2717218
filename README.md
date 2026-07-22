@@ -13,7 +13,9 @@
 ---
 
 #  Hi there, I'm Stephen  👋
-  
+
+![](https://komarev.com/ghpvc/?username=cyprste2717218&color=green)
+
 I'm a Software Engineer!
 
 - 🔭 I have a range of web/mobile app experience and am currently seeking developer roles.
@@ -22,6 +24,27 @@ I'm a Software Engineer!
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham-/)
 - 😄 Pronouns: he/him
   <br></br>
+### :snake: Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake.svg" />
+</picture>
+
+---
+
+### :bar_chart: GitHub Stats
+
+[![Stephen's GitHub stats](https://github-stats-extended.vercel.app/api?username=cyprste2717218)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
+### :pencil2: Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,18 +69,6 @@ I'm a Software Engineer!
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   
 </div>
-
----
-
-### :star2: Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [hoare-logic-proof-checker](https://github.com/cyprste2717218/hoare-logic-proof-checker) | Web-based proof kernel for determining the validity of a Hoare Triple with a given proof body |
-| [ROS2-Autonomous-Robotics-Implementation](https://github.com/cyprste2717218/ROS2-Autonomous-Robotics-Implementation) | Python control code for an autonomous robot, implemented within the ROS2 middleware (University of York) |
-| [Flower-Image-Classifier-Project](https://github.com/cyprste2717218/Flower-Image-Classifier-Project) | TensorFlow/Keras ResNet-style CNN classifying flower images across 102 categories (Oxford Flowers 102) |
-| [github-prs-chrome-extension](https://github.com/cyprste2717218/github-prs-chrome-extension) | Chrome extension to see at a glance how many pull requests are open across your tracked repositories |
-| [p2p-video-chat-web-app](https://github.com/cyprste2717218/p2p-video-chat-web-app) | P2P video chat web app built with Express.js, WebSockets & WebRTC |
 
 ---
 
