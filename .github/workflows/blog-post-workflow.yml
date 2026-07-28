@@ -19,4 +19,4 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/stephen_ingham_42d132a8e3"
+          feed_list: "https://dev.to/feed/stephen_ingham"
