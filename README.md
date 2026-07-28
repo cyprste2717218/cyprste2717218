@@ -43,6 +43,7 @@ I'm a Software Engineer!
 ### :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Learnings &amp; Pitfalls of Building a Chrome Extension](https://dev.to/stephen_ingham/the-learnings-pitfalls-of-building-a-chrome-extension-l1i)
 <!-- BLOG-POST-LIST:END -->
 
 ---
