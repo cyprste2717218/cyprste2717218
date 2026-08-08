@@ -43,6 +43,7 @@ I'm a Software Engineer!
 ### :pencil2: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Job Post Recorder Agent with Google ADK and Composio](https://dev.to/stephen_ingham/building-a-job-post-recorder-agent-with-google-adk-and-composio-1kac)
 - [The Learnings &amp; Pitfalls of Building a Chrome Extension](https://dev.to/stephen_ingham/the-learnings-pitfalls-of-building-a-chrome-extension-l1i)
 <!-- BLOG-POST-LIST:END -->
 
