@@ -18,8 +18,10 @@
 
 I'm a Software Engineer!
 
-- 🔭 I have a range of web/mobile app experience and am currently seeking developer roles.
-- 🌱 I’m currently exploring further into AWS.
+- 🔭 I have a range of full stack web/mobile app experience and am currently seeking developer roles.
+- 🌱 I’m currently exploring further into building agent-driven systems.
+- ✍️ I blog fairly often on [dev.to](https://dev.to/stephen_ingham) and [Medium](https://medium.com/@stephenmichael833) sharing my technical learnings with the community.
+- 📱 I also help organise/run a tech meetup on mobile dev called [Leeds Mobile](https://www.leedsmobile.com/).
 - ⚡ In my free time, I build lego and listen to tech podcasts.
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham-/)
 - 😄 Pronouns: he/him
@@ -69,6 +71,13 @@ I'm a Software Engineer!
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" title="Claude Code" alt="Claude Code" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/white" title="Cursor" alt="Cursor" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/googlecloud" title="Google Cloud Platform" alt="GCP" width="40" height="40" />&nbsp;
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Google Agent Development Kit" alt="Google ADK" height="28" />&nbsp;
   
 </div>
 
