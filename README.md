@@ -75,9 +75,7 @@ I'm a Software Engineer!
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/claude" title="Claude Code" alt="Claude Code" width="40" height="40" />&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/white" title="Cursor" alt="Cursor" width="40" height="40" />&nbsp;
   <img src="https://cdn.simpleicons.org/googlecloud" title="Google Cloud Platform" alt="GCP" width="40" height="40" />&nbsp;
-  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Google Agent Development Kit" alt="Google ADK" height="28" />&nbsp;
   
 </div>
 
