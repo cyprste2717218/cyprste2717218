@@ -14,7 +14,7 @@
 
 #  Hi there, I'm Stephen  👋
 
-![](https://komarev.com/ghpvc/?username=cyprste2717218&color=green)
+![](https://komarev.com/ghpvc/?username=stephen-ingham&color=green)
 
 I'm a Software Engineer!
 
@@ -23,22 +23,22 @@ I'm a Software Engineer!
 - ✍️ I blog fairly often on [dev.to](https://dev.to/stephen_ingham) and [Medium](https://medium.com/@stephenmichael833) sharing my technical learnings with the community.
 - 📱 I also help organise/run a tech meetup on mobile dev called [Leeds Mobile](https://www.leedsmobile.com/).
 - ⚡ In my free time, I build lego and listen to tech podcasts.
-- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham-/)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ingham/)
 - 😄 Pronouns: he/him
   <br></br>
 ### :snake: Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/cyprste2717218/cyprste2717218/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stephen-ingham/stephen-ingham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stephen-ingham/stephen-ingham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/stephen-ingham/stephen-ingham/output/github-snake.svg" />
 </picture>
 
 ---
 
 ### :bar_chart: GitHub Stats
 
-[![Stephen's GitHub stats](https://github-stats-extended.vercel.app/api?username=cyprste2717218)](https://github.com/stats-organization/github-stats-extended)
+[![Stephen's GitHub stats](https://github-stats-extended.vercel.app/api?username=stephen-ingham)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 

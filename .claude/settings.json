@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh run *)",
+      "Bash(gh api *)",
+      "Bash(gh workflow *)",
+      "Bash(git fetch *)",
+      "Bash(gh repo *)",
+      "Bash(curl -sI \"https://dev.to/feed/stephen_ingham_42d132a8e3\")",
+      "Bash(curl -sI \"https://dev.to/stephen_ingham_42d132a8e3\")"
+    ]
+  }
+}
